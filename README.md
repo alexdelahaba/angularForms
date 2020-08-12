@@ -1,27 +1,25 @@
-# Myapp1
+# Angular Forms SPA 🚀
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
+This repository is part of a set of exercises that I have done in the context of Fernando Herrera's Advanced Angular courses.
+This project is a SPA that serves to learn how to work with both template and reactive forms.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Installation 🔧
+To be able to use the application you have to clone the repository to local and to run it:
+* npm install
+* ng serve
 
-## Code scaffolding
+## Build with 🛠️
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* Angular 9
+* RXJS
+* Bootstrap
+* jQuery
+* Typescript
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Screenshots 
+![alt text](https://github.com/alexdelahaba/angularForms/blob/master/src/assets/screenshots/1.PNG?raw=true)
+![alt text](https://github.com/alexdelahaba/angularForms/blob/master/src/assets/screenshots/2.PNG?raw=true)
+![alt text](https://github.com/alexdelahaba/angularForms/blob/master/src/assets/screenshots/3.PNG?raw=true)
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
